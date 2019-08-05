@@ -1,6 +1,6 @@
 # Computing by Design \(CxD\)
 
-**Computing by Design** \(CxD\) is a growing collection of project guidebooks for use in high school computer science courses. In each project, student teams collaboratively design and build a solution to a problem within a particular context using emerging technologies.
+**Computing by Design** \(CxD\) is a collection of project guidebooks for use in high school computer science courses. In each project, student teams collaboratively design and build a solution to a problem within a particular context using a specific technology.
 
 ## Project Guidebooks
 
