@@ -13,7 +13,7 @@ The CxD guidebooks are designed for use by students and teachers alike. Each pro
 | ![](.gitbook/assets/iot-icon.png) [Internet of Things \(IoT\)](https://docs.idew.org/project-internet-of-things/) | 16 Weeks |
 | ![](.gitbook/assets/video-game-icon.png) [Video Game](https://docs.idew.org/project-video-game/) | 16 Weeks |
 | ![](.gitbook/assets/chatbot-icon.png) [Chatbot ](https://docs.idew.org/project-chatbot/) | 16 Weeks |
-| ![](.gitbook/assets/dashboard-icon.png) [Data Visualization](https://docs.idew.org/project-dataviz-dashboard/) | 8+ Weeks |
+| ![](.gitbook/assets/dashboard-icon.png) [Data Visualization](https://docs.idew.org/project-data-visualization-2/) | 8+ Weeks |
 
 These projects are designed to follow the research-based ["Gold Standard" model of Project Based Learning \(PBL\)](https://www.pblworks.org/what-is-pbl) developed by the Buck Institute of Education. Visit BIE's [PBLWorks](https://www.pblworks.org/) website for more information and resources on PBL.
 
