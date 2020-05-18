@@ -29,7 +29,7 @@ Students will get first-hand experience in informatics and computing that reveal
 
 * **Build hard skills** in the digital arts, programming, and data.
 * **Collaborate with a team** where tech skills, people skills, and design skills overlap.
-* **Increase their intuition, confidence, and curiosity;**  solving problems using a ‘_design, build and test_’ pattern common with scientific thinking, creative thinking, and critical thinking.
+* **Increase their intuition, confidence, and curiosity;**  solving problems using a patterns common with scientific thinking, design thinking, and critical thinking.
 
 ## Participate
 
