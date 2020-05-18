@@ -2,11 +2,13 @@
 
 Technical agility, collaborative know-how, and constant curiosity are required traits to influence the modern world. We believe that K-12 learning \(and doing\) should reflect practices in industry, where deep collaboration and problem solving produce concepts that leverage the power of computing in a thoughtful way.
 
+## Three Threads of an Innovator's Work
+
 Student preparation for modern participation should include the following elements. Notice the consistency with a professional's ongoing activities.
 
-1. **Technical Agility** - Students must develop a particular skillset that provides value to teams. We advocate building expertise in at least one of three domains -- programming, data analysis, or interaction design. Continuous improvement of skills is a life-long pursuit. 
+1. **Technical Skill** - Students must develop a particular skillset that provides value to teams. While students will engage three domains -- programming, data/business analysis, and design -- we advocate building a deeper expertise in at least one of the three domains. Continuous improvement of skills is a life-long pursuit. 
 2. **Collaboration Skills** - Students must learn to contribute to solutions in teams. An individual's technical capacity can flourish or flail depending on team dynamics. Supporting authentic collaboration at schools is a focus of the Computing by Design framework.
-3. **Domain Exploration** - Students must maintain a clear awareness of careers and technological trends in order to identify opportunities and interests in a changing world. We encourage students to create reports on trends and careers in technology, as well as getting first-hand exposure to professionals through in-class visitors and field trips to industry.  
+3. **Broad Domain Awareness** - Students must maintain a clear awareness of careers and technological trends in order to identify opportunities and interests in a changing world. We encourage students to create reports on trends and careers in technology, as well as getting first-hand exposure to professionals through in-class visitors and field trips to industry.  
 
 Computing by Design \(CxD\) is a framework for _project-based learning_, providing student teams direction and support for solving problems in a particular context. Each project complements parallel activities for students to build technical expertise and explore related technical trends.
 
