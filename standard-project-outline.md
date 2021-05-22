@@ -1,46 +1,40 @@
 # Standard Project Outline
 
-Each CxD project involves a sequence of three phases, each having its own driving question to help guide students towards solving the larger challenge. The the listed tasks can be applied generally across different problem domains or technologies, but the techniques and deliverables will be tailored for the particular problem, context, and technology. Each phase culminates in a presentation of each team's results for that phase.
+Each CxD project involves a sequence of three phases, each having its own driving question to help guide students towards solving the larger challenge. The the listed tasks can be applied generally across different problem domains or technologies, but each will be tailored for the particular problem context. Each phase culminates in a presentation of a team's results for that phase.
 
 ### 1. DEFINE PROBLEM & VALUE PROPOSITION
 
-_Driving Question:_  Which problem will you solve and what improvement do you propose_?_
+_**Driving Question:**_  **Which problem will you solve and what improvement do you propose**_**?**_
 
-Begin to frame the goals of your design by learning about your users and other stakeholders, the available technology, and the current practices to reach similar goals. Practice using the technology, in order to better understand its possibilities and constraints for design purposes. Consider various problems to solve. Evaluate and refine your ideas for a problem to solve through internal review and stakeholder feedback, in order to select a specific concept to target. Define the specific stakeholders, technology, and goals for a potential solution to your targeted problem.
-
-* [ ] Problem Definition & Importance
-* [ ] Technology Experimentation & Summary
-* [ ] Initial Ideas & Evaluation
-* [ ] Existing Solution Analysis
-* [ ] Stakeholder Profiles & Narratives
-* [ ] Value Proposition & Potential Features Map
-* [ ] **PROPOSAL PRESENTATION**
+* [ ] **Problem Definition & Importance** Analyze and describe the problem context and stakeholders.
+* [ ] **Technology Experimentation & Summary** Understand the available resources and technology that may be part of your solution.
+* [ ] **Initial Ideas & Evaluation** Consider a diverse set of solutions and evaluate each for potential.
+* [ ] **Existing Solution Analysis** Analyze and evaluate existing solutions and borrow or synthesize ideas.
+* [ ] **Stakeholder Profiles & Narratives** Meet stakeholders and co-develop an accurate narrative about the problem and proposed solution.
+* [ ] **Value Proposition & Potential Features Map** Define a compelling value proposition and the intended features of the solution.
+* [ ] **PROPOSAL PRESENTATION** Present a succinct proposal and collect further feedback to inform the details of your design.
 
 ### 2. DESIGN & BUILD SOLUTION 
 
-_Driving Question:_  What specific solution will you provide and how will you design and build it_?_
+_**Driving Question:**_  **What specific solution will you provide and how will you design and build it**_**?**_
 
-Generate multiple prototypes for a solution. Evaluate and refine your prototypes through internal review and stakeholder feedback, in order to select a specific design to build. Define the specific features of the solution, in order to develop a pilot version based on the available time and resources. Build or code your solution in iterative stages.  Internally test your solution to verify its quality and identify any issues. Continually track your progress to finish on time.
-
-* [ ] Prototypes 
-* [ ] Prototype Evaluations
-* [ ] Features Map & System Logic 
-* [ ] Development Plan & Testing Milestones 
-* [ ] Pilot Development & Testing
-* [ ] Plan for Launch & Promotion
-* [ ] **PILOT DEMONSTRATION**
+* [ ] **Prototypes** Generate several distinct prototypes that represent creative perspectives on the solution details.
+* [ ] **Prototype Evaluations** Evaluate the prototypes internally with the team and with stakeholders to verify the results.
+* [ ] **Features Map & System Logic** Determine the solution specifications, logic, and interactions.
+* [ ] **Development Plan & Testing Milestones** Prioritize development tasks and determine a plan to incrementally test the solution.
+* [ ] **Pilot Development & Testing** Execute the plan methodically with frequent team check-ins.
+* [ ] **Plan for Launch & Promotion** Determine the key actions to launch your solution with high impact.
+* [ ] **PILOT DEMONSTRATION** Demonstrate the pilot development with promotional plan and collect feedback from peers.
 
 ### 3. EVALUATE & REFINE SOLUTION 
 
-_Driving Question:_  How effective is your solution and how will you improve it_?_
+_**Driving Question:**_  **How effective is your solution and how will you improve it**_**?**_
 
-Evaluate the quality and value of your solution through stakeholder testing and feedback. Analyze the evaluation data to determine how well the solution met the design goals and to identify issues that may require further improvements. As time and resources allow, implement feasible improvements. __Demonstrate and present your project to a public audience to share the innovations and value provided by your solution to your targeted problem. Explain the process used to design, build, and evaluate your solution. Reflect on how the project experience impacted your personal development and your future educational and career interests.
-
-* [ ] Pilot Evaluation
-* [ ] Final Release Development
-* [ ] Final Release Launch and Promotion
-* [ ] Poster Design
-* [ ] Individual Reflections 
-* [ ] Presentation Plan & Practice
-* [ ] **FINAL DEMONSTRATION & PRESENTATION**
+* [ ] **Pilot Evaluation** Further evaluate the pilot release with stakeholders.
+* [ ] **Final Release Development** Review the evaluation results and prioritize the fixes and improvements.
+* [ ] **Final Release Launch and Promotion** Launch the solution with a clear call to action through your promotion.
+* [ ] **Poster Design** Present the best artifacts to share the development story.
+* [ ] **Individual Reflections**  Reflect on the experience and the impact on your future.
+* [ ] **Presentation Plan & Practice** Take the time to know your audience and delivery plan.
+* [ ] **FINAL DEMONSTRATION & PRESENTATION** This is your time to show everybody what you have done and share your story.
 
