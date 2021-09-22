@@ -5,6 +5,7 @@
 * [Standard Project Outline](standard-project-outline.md)
 * [Guidebook Design Principles](guidebook-design-principles.md)
 * [Student Profile](student-profile.md)
+* [CS Activities Repository](https://docs.idew.org/cxd-activities/)
 
 ## Workshops
 
