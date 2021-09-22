@@ -6,3 +6,8 @@
 * [Guidebook Design Principles](guidebook-design-principles.md)
 * [Student Profile](student-profile.md)
 
+## Workshops
+
+* [Summer Workshop 2020](https://docs.idew.org/cxd2020)
+* [Summer Workshops 2021](https://docs.idew.org/cxd2021)
+
