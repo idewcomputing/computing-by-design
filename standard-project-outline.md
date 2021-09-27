@@ -2,6 +2,8 @@
 
 Each CxD project involves a sequence of three phases, each having its own driving question to help guide students towards solving the larger challenge. The the listed tasks can be applied generally across different problem domains or technologies, but each will be tailored for the particular problem context. Each phase culminates in a presentation of a team's results for that phase.
 
+![Computing by Design Canvas](.gitbook/assets/image.png)
+
 ### 1. DEFINE PROBLEM & VALUE PROPOSITION
 
 _**Driving Question:**_  **Which problem will you solve and what improvement do you propose**_**?**_
