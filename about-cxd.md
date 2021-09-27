@@ -2,6 +2,8 @@
 
 Technical agility, collaborative know-how, and constant curiosity are required traits to influence the modern world. We believe that K-12 learning \(and doing\) should reflect practices in industry, where deep collaboration and problem solving produce concepts that leverage the power of computing in a thoughtful way.
 
+![](.gitbook/assets/image%20%281%29.png)
+
 ## Three Threads of an Innovator's Work
 
 Student preparation for modern participation should include the following elements. Notice the consistency with a professional's ongoing activities.
